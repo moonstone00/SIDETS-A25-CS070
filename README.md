@@ -1,7 +1,7 @@
 # SIDETS-A25-CS070
 Documentation and supporting assets for project review and submission purposes.
 
-<!-- ![](Group%2017805.png) -->
+![alt_text](https://github.com/moonstone00/SIDETS-A25-CS070/blob/main/assets/safe.png?raw=true)
 
 <img src="safe.png" alt="logo" width="450"/>
 
