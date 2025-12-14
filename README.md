@@ -1,9 +1,7 @@
 # SIDETS-A25-CS070
 Documentation and supporting assets for project review and submission purposes.
 
-<!-- ![](Group%2017805.png) -->
-
-<img src="logo.png" alt="logo" width="450"/>
+![alt_text](https://github.com/moonstone00/SIDETS-A25-CS070/blob/main/assets/logo-sdts.png?raw=true)
 
 # **SIDETS : Smart Deposit Targeting System** 
 
@@ -20,24 +18,20 @@ This repository is the Capstone Project in [Asah Dicoding](https://www.dicoding.
 | Muhammad Ghifani Ikhsan         | R891D5Y1279   | React & Back-End with AI |
 | Wahyu Hidayat                   | R891D5Y1949   | React & Back-End with AI |
 
-# Installation the App
-
-## Getting started
-- Prerequisites
-  - Android Version: 7.0 (Nougat) or higher
-  - Internet connection
-
-- Installation
-  - Download the APK
-  - Install the APK
-
 ## Usage
-### How to diagnose the disease
-  - Open App
-  - On the login screen, enter your email and password.
-  - If you do not have an account, tap on __Daftar Disini__ and follow the prompts to register.
-  - Once you have entered your credentials, tap __Masuk__
-  - After logging in, click __Diagnosa Sekarang__
+### How to use this website:
+  #### Sales:
+  - Open a browser and type localhost:5173.
+  - On the login screen, enter your NIP (nomor induk pegawai) and password.
+  - If you don't have an account then you can't log in
+  - There is no registration here because, only sales people who work at the bank.
+  - After logging in, you can check the table to cantact customers.
+  - Click the number to make contact.
+  #### Admin:
+  - Admin can register sales data via Swagger.
+  - Open a browser and type http://localhost:5000/api-docs/#/
+  - In the admin role there is an additional page, namely predict-nasabah.
+  - 
   - The app may prompt you to provide images for a more accurate diagnosis. You can choose to either:
     - Pick from __Camera__: Use your device’s camera to take a new photo.
         - Tap on "Camera."
@@ -60,17 +54,12 @@ This repository is the Capstone Project in [Asah Dicoding](https://www.dicoding.
   - Click __History__ on Bottom Navigation.
   - That'll be show the history what you've predicted before.
 
-
-## Setup
-Clone the repository on your machine. Open the project on your Android Studio and run it.
-
 ## About
-- Predict diseases in the images you upload.
-- Cropping the image.
-- Predict History
-- Clean and Simple Material UI
-- Light Mode and Dark Mode 🌗
-- Clear Cache
+- Predicts customers who are likely to subscribe to deposit products using Machine Learning
+- Helps the sales team prioritize customers for calls and follow-up actions
+- Presents data visualizations in the form of charts and tables
+- Provides an interactive dashboard to monitor prediction results and statistics
+  
 ## 📸 Screenshots
 ||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
