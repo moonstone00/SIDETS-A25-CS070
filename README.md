@@ -1,11 +1,11 @@
 # SIDETS-A25-CS070
 Documentation and supporting assets for project review and submission purposes.
 
-<!-- ![](Group%2017805.svg) -->
+<!-- ![](Group%2017805.png) -->
 
-<img src="Group 17805.svg" alt="logo" width="450"/>
+<img src="logo.png" alt="logo" width="450"/>
 
-# **SDTS : Smart Deposit Targeting System** 
+# **SIDETS : Smart Deposit Targeting System** 
 
 #### Use this website to avoid calling customers carelessly.
 
