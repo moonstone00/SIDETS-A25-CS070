@@ -3,7 +3,7 @@ Documentation and supporting assets for project review and submission purposes.
 
 ![alt_text](https://github.com/moonstone00/SIDETS-A25-CS070/blob/main/assets/safe.png?raw=true)
 
-<img src="safe.png" alt="logo" width="450"/>
+<!-- <img src="safe.png" alt="logo" width="450"/> -->
 
 # **SIDETS : Smart Deposit Targeting System** 
 
