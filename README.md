@@ -65,9 +65,9 @@ Clone the repository on your machine. Open the project on your Android Studio an
 - Light Mode and Dark Mode 🌗
 - Clear Cache
 ## 📸 Screenshots
-||||
-|:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
-| ![](/assets/ss-login.png) | ![](/assets/ss-dashboard.png) | ![](/assets/table-admin.png) |
+|||||
+|:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: | :-----------------------------------------: |
+| ![](/assets/landing-page.png) | ![](/assets/ss-login.png) | ![](/assets/ss-dashboard.png) | ![](/assets/table-admin.png) |
 | ![](/assets/table-sales.png) | ![](/assets/ss-predictdata.png) | ![](/assets/form-data.png) | ![](/assets/settings.png) |
 
 ## Built With 🛠
