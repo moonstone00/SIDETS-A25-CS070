@@ -12,7 +12,7 @@ Documentation and supporting assets for project review and submission purposes.
 This repository is the Capstone Project in [Asah Dicoding](https://www.dicoding.com/asah) 2025. This application helps sales to avoid contacting random customers and contact customers whoe are likely to take desposits.  
 
 ## Our Team
-| Name                            | Bangkit-ID    | Path                     |
+| Name                            | Asah-ID       | Path                     |
 | -------------                   | ------------- | ------------------------ |
 | Andreas Rameladi                | M891D5Y0219   | Machine Learning         |
 | Fauzi Hendrawan                 | M891D5Y0622   | Machine Learning         |
