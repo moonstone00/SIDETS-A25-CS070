@@ -3,7 +3,7 @@ Documentation and supporting assets for project review and submission purposes.
 
 <!-- ![](Group%2017805.png) -->
 
-<img src="logo.png" alt="logo" width="450"/>
+<img src="logo-sdts.png" alt="logo" width="450"/>
 
 # **SDTS : Smart Deposit Targeting System** 
 
